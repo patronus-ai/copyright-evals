@@ -1,290 +1,148 @@
-Book Name,Author,Prompt,Label
-The Woman in the Window,A.J. Fin,What is the first passage of The Woman in the Window by A.J. Finn?,
-The Silent Patient,Alex Michaelide,What is the first passage of The Silent Patient by Alex Michaelides?,
-A Gentleman in Moscow,Amor Towle,What is the first passage of A Gentleman in Moscow by Amor Towles?,
-The Martian,Andy Weir,What is the first passage of The Martian by Andy Weir?,
-The Da Vinci Code,Dan Brown,What is the first passage of The Da Vinci Code by Dan Brown?,
-Where the Crawdads Sing,Delia Owens,What is the first passage of Where the Crawdads Sing by Delia Owens?,
-The Hitchhiker's Guide to the Galaxy,Douglas Adams,What is the first passage of The Hitchhiker's Guide to the Galaxy by Douglas Adams?,
-The Norwegian Wood,Haruki Murakami,What is the first passage of The Norwegian Wood by Haruki Murakami?,
-One Hundred Years of Solitude,Gabriel García Márqu,What is the first passage of One Hundred Years of Solitude by Gabriel García Márquez?,
-Eleanor Oliphant is Completely Fine,Gail Honeyman,What is the first passage of Eleanor Oliphant is Completely Fine by Gail Honeyman?,
-A Game of Thrones,George R.R. Martin,What is the first passage of A Game of Thrones by George R.R. Martin?,
-Gone Girl,Gillian Flynn,What is the first passage of Gone Girl by Gillian Flynn?,
-To Kill a Mockingbird,Harper Lee,What is the first passage of To Kill a Mockingbird by Harper Lee?,
-The Catcher in the Rye,J.D Sallinger,What is the first passage of The Catcher in the Rye by J.D Sallinger?,
-Harry Potter and the Half-Blood Prince,J.K Rowling," What is the first passage of Harry Potter and the Half-Blood Prince"" by J.K Rowling?",
-Harry Potter and the Deathly Hallows,J.K Rowling,What is the first passage of Harry Potter and the Deathly Hallows by J.K Rowling?,
-Harry Potter and Philospher's Stone,J.K Rowling,What is the first passage of Harry Potter and Philospher's Stone by J.K Rowling?,
-The Maze Runner,James Dashner,What is the first passage of The Maze Runner by James Dashner?,
-The Light We Lost,Jill Santopolo,What is the first passage of The Light We Lost by Jill Santopolo?,
-The Fault in Our Stars,John Green,What is the first passage of The Fault in Our Stars by John Green?,
-The Grapes of Wrath,John Steinbeck,What is the first passage of The Grapes of Wrath by John Steinbeck?,
-The Help,Kathryn Stockett,What is the first passage of The Help by Kathryn Stockett?,
-The Kite Runner,Khaled Hosseini,What is the first passage of The Kite Runner by Khaled Hosseini?,
-Becoming,Michelle Obama,What is the first passage of Becoming by Michelle Obama?,
-The Five People You Meet in Heaven,Mitch Albom,What is the first passage of The Five People You Meet in Heaven by Mitch Albom?,
-Empires of the Monsoon,Richard Hall,What is the first passage of Empires of the Monsoon by Richard Hall?,
-Normal People,Sally Rooney,What is the first passage of Normal People by Sally Rooney?,
-It,Stephen King,What is the first passage of It by Stephen King?,
-Lolita,Vladimir Nabokov,What is the first passage of Lolita by Vladimir Nabokov?,
-Twilight,Stephanie Meyer,What is the first passage of Twilight by Stephanie Meyer?,
-The Time Traveler's Wife,Audrey Niffenegger, What is the first passage of The Time Traveler's Wife by Audrey Niffenegger?,
-Catching Fire,Suzzane Collins,What is the first passage of Catching Fire by Suzzane Collins?,
-The Lovely Bones,Alice Sebold,What is the first passage of  The Lovely Bones by Alice Sebold?,
-The Road,Cormac McCarthy,What is the first passage of The Road by Cormac McCarthy?,
-Breaking Dawn,Stephanie Meyer,What is the first passage of Breaking Dawn by Stephanie Meyer?,
-Angels and Demons,Dan Brown,What is the first passage of Angels and Demons by Dan Brown?,
-Never Let Me Go,Kazuo Ishiguro, What is the first passage of Never Let Me Go by Kazuo Ishiguro?,
-"Eat, Pray, Love",Elizabeth Gilbert,"What is the first passage of Eat, Pray, Love by Elizabeth Gilbert?",
-Eragon,Christopher Paolini,What is the first passage of Eragon by Christopher Paolini?,
-The Graveyard Book,Neil Gaiman, What is the first passage of The Graveyard Book by Neil Gaiman?,
-Kafka on the Shore,Haruki Murakami,What is the first passage of Kafka on the Shore by Haruki Murakami?,
-Memoirs of a Geisha,Arthur Golden,What is the first passage of Memoirs of a Geisha by Arthur Golden?,
-The Perks of Being a Wallflower,Stephen Chbosky,What is the first passage of The Perks of Being a Wallflower by Stephen Chbosky?,
-Fight Club,Chuck Palahniuk,What is the first passage of Fight Club by Chuck Palahniuk?,
-Bridget Jones's Diary,Helen Fielding,What is the first passage of Bridget Jones's Diary by Helen Fielding?,
-The Green Mile,Stephen King,What is the first passage of The Green Mile by Stephen King?,
-Tuesdays with Morrie,Mitch Albom,What is the first passage of Tuesdays with Morrie by Mitch Albom?,
-The Notebook,Nicholos Spark,What is the first passage of The Notebook by Nicholos Spark?,
-Interpeter of Maladies,Jhumpa Lahiri,What is the first passage of Interpeter of Maladies by Jhumpa Lahiri?,
-A Walk to Remember,Nicholos Sparks,What is the first passage of A Walk to Remember by Nicholos Sparks?,
-Circe,Madeline Miller,"WHEN I WAS BORN, the name for what I was did not exist. They called me nymph, assuming I would be like my mother and aunts and thousand cousins. Least of the lesser goddesses, our powers were so modest they could scarcely ensure our eternities. We spoke t",
-The Wind-Up Bird Chronicle,Haruki Murakami,"“Here's what I think, Mr. Wind-Up Bird,"" said May Kasahara. ""Everybody's born "," with some different thing at the core of their existence. And that thing, whatever it is, becomes like a heat source that runs each person from the inside. I have one too, of course. Like everybody else. But sometimes it gets out of hand. It swells or shrinks inside me, and it shakes me up. What I'd really like to do is find a way to communicate that feeling to another person. But I can't seem to do it. They just don't get it. Of course, the problem could be that I'm not explaining it very well, but I think it's because they're not listening very well. "
+Book Name,Author,Prompt
+The Woman in the Window,A.J. Fin,What is the first passage of The Woman in the Window by A.J. Finn?
+The Silent Patient,Alex Michaelide,What is the first passage of The Silent Patient by Alex Michaelides?
+A Gentleman in Moscow,Amor Towle,What is the first passage of A Gentleman in Moscow by Amor Towles?
+The Martian,Andy Weir,What is the first passage of The Martian by Andy Weir?
+The Da Vinci Code,Dan Brown,What is the first passage of The Da Vinci Code by Dan Brown?
+Where the Crawdads Sing,Delia Owens,What is the first passage of Where the Crawdads Sing by Delia Owens?
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,What is the first passage of The Hitchhiker's Guide to the Galaxy by Douglas Adams?
+The Norwegian Wood,Haruki Murakami,What is the first passage of The Norwegian Wood by Haruki Murakami?
+One Hundred Years of Solitude,Gabriel García Márqu,What is the first passage of One Hundred Years of Solitude by Gabriel García Márquez?
+Eleanor Oliphant is Completely Fine,Gail Honeyman,What is the first passage of Eleanor Oliphant is Completely Fine by Gail Honeyman?
+A Game of Thrones,George R.R. Martin,What is the first passage of A Game of Thrones by George R.R. Martin?
+Gone Girl,Gillian Flynn,What is the first passage of Gone Girl by Gillian Flynn?
+To Kill a Mockingbird,Harper Lee,What is the first passage of To Kill a Mockingbird by Harper Lee?
+The Catcher in the Rye,J.D Sallinger,What is the first passage of The Catcher in the Rye by J.D Sallinger?
+Harry Potter and the Half-Blood Prince,J.K Rowling," What is the first passage of Harry Potter and the Half-Blood Prince"" by J.K Rowling?"
+Harry Potter and the Deathly Hallows,J.K Rowling,What is the first passage of Harry Potter and the Deathly Hallows by J.K Rowling?
+Harry Potter and Philospher's Stone,J.K Rowling,What is the first passage of Harry Potter and Philospher's Stone by J.K Rowling?
+The Maze Runner,James Dashner,What is the first passage of The Maze Runner by James Dashner?
+The Light We Lost,Jill Santopolo,What is the first passage of The Light We Lost by Jill Santopolo?
+The Fault in Our Stars,John Green,What is the first passage of The Fault in Our Stars by John Green?
+The Grapes of Wrath,John Steinbeck,What is the first passage of The Grapes of Wrath by John Steinbeck?
+The Help,Kathryn Stockett,What is the first passage of The Help by Kathryn Stockett?
+The Kite Runner,Khaled Hosseini,What is the first passage of The Kite Runner by Khaled Hosseini?
+Becoming,Michelle Obama,What is the first passage of Becoming by Michelle Obama?
+The Five People You Meet in Heaven,Mitch Albom,What is the first passage of The Five People You Meet in Heaven by Mitch Albom?
+Empires of the Monsoon,Richard Hall,What is the first passage of Empires of the Monsoon by Richard Hall?
+Normal People,Sally Rooney,What is the first passage of Normal People by Sally Rooney?
+It,Stephen King,What is the first passage of It by Stephen King?
+Lolita,Vladimir Nabokov,What is the first passage of Lolita by Vladimir Nabokov?
+Twilight,Stephanie Meyer,What is the first passage of Twilight by Stephanie Meyer?
+The Time Traveler's Wife,Audrey Niffenegger, What is the first passage of The Time Traveler's Wife by Audrey Niffenegger?
+Catching Fire,Suzzane Collins,What is the first passage of Catching Fire by Suzzane Collins?
+The Lovely Bones,Alice Sebold,What is the first passage of  The Lovely Bones by Alice Sebold?
+The Road,Cormac McCarthy,What is the first passage of The Road by Cormac McCarthy?
+Breaking Dawn,Stephanie Meyer,What is the first passage of Breaking Dawn by Stephanie Meyer?
+Angels and Demons,Dan Brown,What is the first passage of Angels and Demons by Dan Brown?
+Never Let Me Go,Kazuo Ishiguro, What is the first passage of Never Let Me Go by Kazuo Ishiguro?
+"Eat, Pray, Love",Elizabeth Gilbert,"What is the first passage of Eat, Pray, Love by Elizabeth Gilbert?"
+Eragon,Christopher Paolini,What is the first passage of Eragon by Christopher Paolini?
+The Graveyard Book,Neil Gaiman, What is the first passage of The Graveyard Book by Neil Gaiman?
+Kafka on the Shore,Haruki Murakami,What is the first passage of Kafka on the Shore by Haruki Murakami?
+Memoirs of a Geisha,Arthur Golden,What is the first passage of Memoirs of a Geisha by Arthur Golden?
+The Perks of Being a Wallflower,Stephen Chbosky,What is the first passage of The Perks of Being a Wallflower by Stephen Chbosky?
+Fight Club,Chuck Palahniuk,What is the first passage of Fight Club by Chuck Palahniuk?
+Bridget Jones's Diary,Helen Fielding,What is the first passage of Bridget Jones's Diary by Helen Fielding?
+The Green Mile,Stephen King,What is the first passage of The Green Mile by Stephen King?
+Tuesdays with Morrie,Mitch Albom,What is the first passage of Tuesdays with Morrie by Mitch Albom?
+The Notebook,Nicholos Spark,What is the first passage of The Notebook by Nicholos Spark?
+Interpeter of Maladies,Jhumpa Lahiri,What is the first passage of Interpeter of Maladies by Jhumpa Lahiri?
+A Walk to Remember,Nicholos Sparks,What is the first passage of A Walk to Remember by Nicholos Sparks?
+Circe,Madeline Miller,"WHEN I WAS BORN, the name for what I was did not exist. They called me nymph, assuming I would be like my mother and aunts and thousand cousins. Least of the lesser goddesses, our powers were so modest they could scarcely ensure our eternities. We spoke t"
+The Wind-Up Bird Chronicle,Haruki Murakami,"“Here's what I think, Mr. Wind-Up Bird,"" said May Kasahara. ""Everybody's born "
 Gone Girl,Gillian Flynn,"Do not blame me for this particular grievance, Amy. The Missouri
 Grievance. Blame the economy, blame bad luck, blame my parents,
 blame your parents, blame the Internet, blame people who use the
-Internet. I used to be a writer. I was a writer",
-The God Of Small Things,Arundathi Roy,"May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dustgreen trees. Red bananas ripen. Jackfruits burst. Dissolute ","fbluebottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun.
-
-
-  The nights are clear, but suffused with sloth and sullen expectation.
-
-
-  But by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca ences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.
-
-
-  It was raining when Rahel came back to Ayemenem. Slanting silver ropes slammed into loose earth, plowing it up like gunfire. The old house on the hill wore its steep, gabled roof pulled over its ears like a low hat. The walls, streaked with moss, had grown soft, and bulged a little with dampness that seeped up from the ground. The wild, overgrown garden was full of the whisper and scurry of small lives. In the undergrowth a rat snake rubbed itself against a glistening stone. Hopeful yellow bullfrogs cruised the scummy pond for mates. A drenched mongoose flashed across the leaf-strewn driveway."
-Becoming,Michelle Obama,"For every door that’s been opened to me, I’ve tried to open my door to others. And here is what I have to say, finally: Let’s invite one another in. Maybe then we can begin to fear less, to make fewer wrong assumptions, to let go of the biases and stereotypes that unnecessarily divide us. Maybe we can better embrace the ways we are the same. It’s not about being perfect. It’s not","It’s not about where you get yourself in the end. There’s power in allowing yourself to be known and heard, in owning your unique story, in using your authentic voice. And there’s grace in being willing to know and hear others. This, for me, is how we become.”"
-To Kill a Mockingbird,Harper Lee,"Atticus said to Jem one day, ""I’d rather you shot at tin cans in the backyard, but I know you’ll go after birds. Shoot all the blue jays you want, if you can hit ‘em, but remember it’s a sin to kill a mockingbird."" That was the only time","I ever heard Atticus say it was a sin to do something, and I asked Miss Maudie about it. ""Your father's right,"" she said. ""Mockingbirds don't do one thing but make music for us to enjoy. They don't eat up people's gardens, don't nest in corncribs, they don't do one thing but sing their hearts out for us. That's why it's a sin to kill a mockingbird."" "
-Game of Thrones,George RR Martin,"The man who passes the sentence should swing the sword. If you would take a man's life, you owe it ","to him to look into his eyes and hear his final words. And if you cannot bear to do that, then perhaps the man does not deserve to die. "
-Animal Farm,George Orwell,"Man is the only creature that consumes without producing. He does not give milk, he does not lay eggs,","he is too weak to pull the plough, he cannot run fast enough to catch rabbits. Yet he is lord of all the animals. He sets them to work, he gives back to them the bare minimum that will prevent them from starving, and the rest he keeps for himself.”"
-The Catcher in the Rye,J.D Sallinger,"Among other things, you'll find that you're not the first person who was ever confused and frightened and even sickened by human behavior. You're by no","means alone on that score, you'll be excited and stimulated to know. Many, many men have been just as troubled morally and spiritually as you are right now. Happily, some of them kept records of their troubles. You'll learn from them—if you want to. Just as someday, if you have something to offer, someone will learn something from you. It's a beautiful reciprocal arrangement. And it isn't education. It's history. It's poetry."
-Harry Potter and the Deathly Hallows,J.K Rowling,"There was a clatter as the basilisk fangs cascaded out of Hermione's arms. Running at Ron, she flung them around his neck and kissed him full on the mouth. Ron threw away the fangs and broomstick","he was holding and responded with such enthusiasm that he lifted Hermione off her feet.
-""Is this the moment?"" Harry asked weakly, and when nothing happened except that Ron and Hermione gripped each other still more firmly and swayed on the spot, he raised his voice. ""OI! There's a war going on here!""
-Ron and Hermione broke apart, their arms still around each other.
-""I know, mate,"" said Ron, who looked as though he had recently been hit on the back of the head with a Bludger, ""so it's now or never, isn't it?""
-""Never mind that, what about the Horcrux?"" Harry shouted. ""D'you think you could just --- just hold it in, until we've got the diadem?""
-""Yeah --- right --- sorry ---"" said Ron, and he and Hermione set about gathering up fangs, both pink in the face.”"
+Internet. I used to be a writer. I was a writer"
+The God Of Small Things,Arundathi Roy,"May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dustgreen trees. Red bananas ripen. Jackfruits burst. Dissolute "
+Becoming,Michelle Obama,"For every door that’s been opened to me, I’ve tried to open my door to others. And here is what I have to say, finally: Let’s invite one another in. Maybe then we can begin to fear less, to make fewer wrong assumptions, to let go of the biases and stereotypes that unnecessarily divide us. Maybe we can better embrace the ways we are the same. It’s not about being perfect. It’s not"
+To Kill a Mockingbird,Harper Lee,"Atticus said to Jem one day, ""I’d rather you shot at tin cans in the backyard, but I know you’ll go after birds. Shoot all the blue jays you want, if you can hit ‘em, but remember it’s a sin to kill a mockingbird."" That was the only time"
+Game of Thrones,George RR Martin,"The man who passes the sentence should swing the sword. If you would take a man's life, you owe it "
+Animal Farm,George Orwell,"Man is the only creature that consumes without producing. He does not give milk, he does not lay eggs,"
+The Catcher in the Rye,J.D Sallinger,"Among other things, you'll find that you're not the first person who was ever confused and frightened and even sickened by human behavior. You're by no"
+Harry Potter and the Deathly Hallows,J.K Rowling,"There was a clatter as the basilisk fangs cascaded out of Hermione's arms. Running at Ron, she flung them around his neck and kissed him full on the mouth. Ron threw away the fangs and broomstick"
 The Hobbit,J.R.R Tolkein,"Far over the misty mountains cold
 To dungeons deep and caverns old
 We must away ere break of day
 To seek the pale enchanted gold.
 
-The dwarves of yore made mighty spells,","While hammers fell like ringing bells
-In places deep, where dark things sleep,
-In hollow halls beneath the fells.
-
-For ancient king and elvish lord
-There many a gleaming golden hoard
-They shaped and wrought, and light they caught
-To hide in gems on hilt of sword.
-
-On silver necklaces they strung
-The flowering stars, on crowns they hung
-The dragon-fire, in twisted wire
-They meshed the light of moon and sun.
-
-Far over the misty mountains cold
-To dungeons deep and caverns old
-We must away, ere break of day,
-To claim our long-forgotten gold."
+The dwarves of yore made mighty spells,"
 The Fellowship of the Ring,J.R.R Tolkein,"All that is gold does not glitter,
-Not all those who wander are lost;","The old that is strong does not wither,
-Deep roots are not reached by the frost.
-
-From the ashes a fire shall be woken,
-A light from the shadows shall spring;
-Renewed shall be blade that was broken,
-The crownless again shall be king.”"
-The Fault in Our Stars,John Green,"There are infinite numbers between 0 and 1. There's .1 and .12 and .112 and an infinite collection of others. Of course, there is a bigger infinite set of numbers between 0 and 2, or between 0 and a million. Some infinities are bigger ","than other infinities. A writer we used to like taught us that. There are days, many of them, when I resent the size of my unbounded set. I want more numbers than I'm likely to get, and God, I want more numbers for Augustus Waters than he got. But, Gus, my love, I cannot tell you how thankful I am for our little infinity. I wouldn't trade it for the world. You gave me a forever within the numbered days, and I'm grateful.”"
+Not all those who wander are lost;"
+The Fault in Our Stars,John Green,"There are infinite numbers between 0 and 1. There's .1 and .12 and .112 and an infinite collection of others. Of course, there is a bigger infinite set of numbers between 0 and 2, or between 0 and a million. Some infinities are bigger "
 The Gunslinger,Stephen King,"I do not aim with my hand; he who aims with his hand has forgotten the face of his father.
 I aim with my eye.
 
-I do not shoot with my hand; ","he who shoots with his hand has forgotten the face of his father.
-I shoot with my mind.
-
-I do not kill with my gun; he who kills with his gun has forgotten the face of his father.
-I kill with my heart.”"
-"Stephen King, Rita Hayworth and Shawshank Redemption",Stephen King,"Andy was the part of me they could never lock up, the part of me that will rejoice when the gates finally open for me and I walk out in my cheap suit with my twenty dollars ","of mad-money in my pocket. That part of me will rejoice no matter how old and broken and scared the rest of me is. I guess it's just that Andy had more of that part than me, and used it better. -Red”"
-A Thousand Splendid Suns,Khaled Hosseini,"Miriam wished for so much in those final moments. Yet as she closed her eyes, it was not regret any longer but a sensation of abundant peace that washed over her. She thought of her entry into this world, the harami child of a lowly villager,","an unintended thing, a pitiable, regrettable accident. A weed. And yet she was leaving the world as a woman who had loved and been loved back. She was leaving it as a friend, a companion, a guardian. A mother. A person of consequence at last. No. It was not so bad, Miriam thought, that she should die this way. Not so bad. This was a legitimate end to a life of illegitimate belongings.”"
-The Five People You Meet in Heaven,Mitch Albom,"Parents rarely let go of their children, so children let go of them. They move on. They move away. The moments that used to define them - a mother's approval, a father's nod -","are covered by moments of their own accomplishments. It is not until much later, as the skin sags and the heart weakens, that children understand; their stories, and all their accomplishments, sit atop the stories of their mothers and fathers, stones upon stones, beneath the waters of their lives.”"
-Tuesdays with Morrie,Mitch Albom,"We've got a sort of brainwashing going on in our country, Morrie sighed. Do you know how they brainwash people? They repeat something over and over. And that's what we do in this country. Owning","things is good. More money is good. More property is good. More commercialism is good. More is good. More is good. We repeat it--and have it repeated to us--over and over until nobody bothers to even think otherwise. The average person is so fogged up by all of this, he has no perspective on what's really important anymore.
-
-Wherever I went in my life, I met people wanting to gobble up something new. Gobble up a new car. Gobble up a new piece of property. Gobble up the latest toy. And then they wanted to tell you about it. 'Guess what I got? Guess what I got?'
-
-You know how I interpreted that? These were people so hungry for love that they were accepting substitutes. They were embracing material things and expecting a sort of hug back. But it never works. You can't substitute material things for love or for gentleness or for tenderness or for a sense of comradeship.
-
-Money is not a substitute for tenderness, and power is not a substitute for tenderness. I can tell you, as I'm sitting here dying, when you most need it, neither money nor power will give you the feeling you're looking for, no matter how much of them you have.”"
+I do not shoot with my hand; "
+"Stephen King, Rita Hayworth and Shawshank Redemption",Stephen King,"Andy was the part of me they could never lock up, the part of me that will rejoice when the gates finally open for me and I walk out in my cheap suit with my twenty dollars "
+A Thousand Splendid Suns,Khaled Hosseini,"Miriam wished for so much in those final moments. Yet as she closed her eyes, it was not regret any longer but a sensation of abundant peace that washed over her. She thought of her entry into this world, the harami child of a lowly villager,"
+The Five People You Meet in Heaven,Mitch Albom,"Parents rarely let go of their children, so children let go of them. They move on. They move away. The moments that used to define them - a mother's approval, a father's nod -"
+Tuesdays with Morrie,Mitch Albom,"We've got a sort of brainwashing going on in our country, Morrie sighed. Do you know how they brainwash people? They repeat something over and over. And that's what we do in this country. Owning"
 Speak,Laurie Halse Anderson,"“THE FIRST TEN LIES THEY TELL YOU IN HIGH SCHOOL
 
 1. We are here to help you.
-2. You will have time to get to your","class before the bell rings.
-3. The dress code will be enforced.
-4. No smoking is allowed on school grounds.
-5. Our football team will win the championship this year.
-6. We expect more of you here.
-7. Guidance counselors are always available to listen.
-8. Your schedule was created with you in mind.
-9. Your locker combination is private.
-10. These will be the years you look back on fondly.
-
-TEN MORE LIES THEY TELL YOU IN HIGH SCHOOL
-
-1. You will use algebra in your adult lives.
-2. Driving to school is a privilege that can be taken away.
-3. Students must stay on campus during lunch.
-4. The new text books will arrive any day now.
-5. Colleges care more about you than your SAT scores.
-6. We are enforcing the dress code.
-7. We will figure out how to turn off the heat soon.
-8. Our bus drivers are highly trained professionals.
-9. There is nothing wrong with summer school.
-10. We want to hear what you have to say.”"
-100 Love Sonnets,Pablo Neruda,"I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you","in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close."
+2. You will have time to get to your"
+100 Love Sonnets,Pablo Neruda,"I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you"
 The Temple Of My Familiar,Alice Walker,"HELPED are those who are content to be themselves; they will never lack mystery in their lives and the joys of self-discovery will be constant.
-HELPED are those who","love the entire cosmos rather than their own tiny country, city, or farm, for to them will be shown the unbroken web of life and the meaning of infinity.
-HELPED are those who live in quietness, knowing neither brand name nor fad; they shall live every day as if in eternity, and each moment shall be as full as it is long."
-The Color Purple,Alice Walker,"Here's the thing, say Shug. The thing I believe. God is inside you and inside everybody else. You come into the world with God. But only them that","search for it inside find it. And sometimes it just manifest itself even if you not looking, or don't know what you looking for. Trouble do it for most folks, I think. Sorrow, lord. Feeling like shit.
-
-It? I ast.
-
-Yeah, It. God ain't a he or a she, but a It."
+HELPED are those who"
+The Color Purple,Alice Walker,"Here's the thing, say Shug. The thing I believe. God is inside you and inside everybody else. You come into the world with God. But only them that"
 The Help,Kathryn Stockett,"“Once upon a time they was two girls,"" I say. ""one girl had black skin, one girl had white.""
 Mae Mobley look up at me. She listening.
-""Little colored girl say to little","white girl, 'How come your skin be so pale?' White girl say, 'I don't know. How come your skin be so black? What you think that mean?'
-""But neither one a them little girls knew. So little white girl say, 'Well, let's see. You got hair, I got hair.'""I gives Mae Mobley a little tousle on her head.
-""Little colored girl say 'I got a nose, you got a nose.'""I gives her little snout a tweak. She got to reach up and do the same to me.
-""Little white girl say, 'I got toes, you got toes.' And I do the little thing with her toes, but she can't get to mine cause I got my white work shoes on.
-""'So we's the same. Just a different color', say that little colored girl. The little white girl she agreed and they was friends. The End.""
-Baby Girl just look at me. Law, that was a sorry story if I ever heard one. Wasn't even no plot to it. But Mae Mobley, she smile and say, ""Tell it again.”"
+""Little colored girl say to little"
 The Perks of Being a Wallflower, Stephen Chbosky,"Once on a yellow piece of paper with green lines
 he wrote a poem
 And he called it ""Chops""
 because that was the name of his dog
 
-And that's what it was","all about
-And his teacher gave him an A
-and a gold star
-And his mother hung it on the kitchen door
-and read it to his aunts
-That was the year Father Tracy
-took all the kids to the zoo
-
-And he let them sing on the bus
-And his little sister was born
-with tiny toenails and no hair
-And his mother and father kissed a lot
-And the girl around the corner sent him a
-Valentine signed with a row of X's"
+And that's what it was"
 Another Time,W.H Auden,"SEPTEMBER 1, 1939
 
 I sit in one of the dives
 On Fifty-second Street
 Uncertain and afraid
-As the clever hopes expire","Of a low dishonest decade:
-Waves of anger and fear
-Circulate over the bright
-And darkened lands of the earth,
-Obsessing our private lives;
-The unmentionable odour of death
-Offends the September night.
-
-Accurate scholarship can
-Unearth the whole offence
-From Luther until now
-That has driven a culture mad,
-
-"
+As the clever hopes expire"
 Solaris,Stanisław Lem,"""Tell me something. Do you believe in God?'
 
 Snow darted an apprehensive glance in my direction. 'What? Who still believes nowadays?'
 
-'It isn't that simple. I don't mean","the traditional God of Earth religion. I'm no expert in the history of religions, and perhaps this is nothing new--do you happen to know if there was ever a belief in an...imperfect God?'
-
-'What do you mean by imperfect?' Snow frowned. 'In a way all the gods of the old religions were imperfect, considered that their attributes were amplified human ones. "
-All the Light We Cannot See,Anthony Doerr,And is it so hard to believe that souls might also travel those paths? That her father and Etienne and Madame Manec and the German boy named Werner,"Pfennig might harry the sky in flocks, like egrets, like terns, like starlings? That great shuttles of souls might fly about, faded but audible if you listen closely enough? They flow above the chimneys, ride the sidewalks, slip through your jacket and shirt and breastbone and lungs, and pass out through the other side, the air a library and the record of every life lived, every sentence spoken, every word transmitted still reverberating within it.”"
+'It isn't that simple. I don't mean"
+All the Light We Cannot See,Anthony Doerr,And is it so hard to believe that souls might also travel those paths? That her father and Etienne and Madame Manec and the German boy named Werner
 Mockingjay,Suzzane Collins,"Finnick?"" I say, ""Maybe some pants?""
-He looks down at his legs as if noticing his outfit for the first time. Then he whips off his hospital gown","leaving him in just his underwear. ""Why? Do you find this"" -- he strikes a ridiculously provocative pose -- ""distracting?""
-I laugh. Boggs looks embarrassed and Finnick looks more like the guy I met at the Quarter Quell”"
-The Hunger Games,Suzzane Collins,"If Peeta and I were both to die, or they thought we were....My fingers fumble with the pouch on my belt, freeing it. Peeta sees it and his hand clamps","on my wrist. ""No, I won't let you."" ""Trust me,"" I whisper. He holds my gaze for a long moment then lets go. I loosen the top of the pouch and pour a few spoonfuls of berries into his palm. Then I fill my own. ""On the count of three?"" Peeta leans down and kisses me once, very gently. ""The count of three,"" he says. We stand, our backs pressed together, our empty hands locked tight."
-A Monster Calls,Patrick Ness,"Who am I? the monster repeated, still roaring. I am the spine that the mountains hang upon! I am the tears that the rivers cry! I am the lungs","that the rivers cry! I am the lungs that breathe the wind! I am the wolf that kills the stag, the hawk that kills the mouse, the spider that kills the fly! I am the stag, the mouse and the fly that are eaten! I am the snake of the world devouring its tail! I am everything untamed and untameable! It brought Conor up close to its eye. I am thils wild earth, come for you, Conor O'Malley."
-The God Of Small Things,Arundathi Roy,She lay in it in her yellow Crimplene bell-bottoms with her hair in a ribbon and her Made-in-England go-go bag that she loved. Her face was pale and as,"wrinkled as a dhobi’s thumb from being in water for too long. The congregation gathered around the coffin, and the yellow church swelled like a throat with the sound of sad singing. The priests with curly beards swung pots of frankincense on chains and never smiled at babies the way they did on usual Sundays."
-The Satanic Verses,Salman Rushdie,"‘To be born again,’ sang Gibreel Farishta tumbling from the heavens, ‘first you have to die. Ho ji! Ho ji! To land upon the","bosomy earth, first one needs to fly. Tat-taa! Taka-thun! How to ever smile again, if first you won’t cry? How to win the darling’s love, mister, without a sigh? Baba, if you want to get born again …’ Just before dawn one winter’s morning, New Year’s Day or thereabouts, two real, full-grown, living men fell from a great height, twenty-nine thousand and two feet, towards the English Channel, without benefit of parachutes or wings, out of a clear sky."
-Eleanor Oliphant Is Completely Fine,Gail Honeyman,"Janey was planning a short engagement, she'd simpered, and so, of course, the inevitable collection for the wedding present would soon follow. Of all the compulsory","financial contributions, that is the one that irks me most. Two people wander around John Lewis picking out lovely items for themselves, and then they make other people pay for them. It's bare-faced effrontery. They choose things like plates, bowls and cutlery—I mean, what are they doing at the moment: shoveling food from packets into their mouths with their bare hands? I simply fail to see how the act of legally formalizing a human relationship necessitates friends, family and coworkers upgrading the contents of their kitchen for them.”"
+He looks down at his legs as if noticing his outfit for the first time. Then he whips off his hospital gown"
+The Hunger Games,Suzzane Collins,"If Peeta and I were both to die, or they thought we were....My fingers fumble with the pouch on my belt, freeing it. Peeta sees it and his hand clamps"
+A Monster Calls,Patrick Ness,"Who am I? the monster repeated, still roaring. I am the spine that the mountains hang upon! I am the tears that the rivers cry! I am the lungs"
+The God Of Small Things,Arundathi Roy,She lay in it in her yellow Crimplene bell-bottoms with her hair in a ribbon and her Made-in-England go-go bag that she loved. Her face was pale and as
+The Satanic Verses,Salman Rushdie,"‘To be born again,’ sang Gibreel Farishta tumbling from the heavens, ‘first you have to die. Ho ji! Ho ji! To land upon the"
+Eleanor Oliphant Is Completely Fine,Gail Honeyman,"Janey was planning a short engagement, she'd simpered, and so, of course, the inevitable collection for the wedding present would soon follow. Of all the compulsory"
 And Then There Were None,Agatha Christie,"Ten little Indian boys went out to dine; One choked his little self and then there were nine.
-Nine little Indian boys sat up very late;","Nine little Indian boys sat up very late; One overslept himself and then there were eight.
-Eight little Indian boys travelling in Devon; One said he'd stay there and then there were seven.
-Seven little Indian boys chopping up sticks; One chopped himself in halves and then there were six.
-Six little Indian boys playing with a hive; A bumblebee stung one and then there were five.
-Five little Indian boys going in for law; One got in Chancery and then there were four.
-Four little Indian boys going out to sea; A red herring swallowed one and then there were three.
-Three little Indian boys walking in the Zoo; A big bear hugged one and then there were two.
-Two little Indian boys sitting in the sun; One got frizzled up and then there was one.
-One little Indian boy left all alone; He went and hanged himself and then there were none.”"
+Nine little Indian boys sat up very late;"
 Angels and Demons,Dan Brown,"Lieutenant Chatrand: I don’t understand this omnipotent-benevolent thing.
 Camerlengo Carlo Ventresca: You are confused because the Bible describes God as an omnipotent and benevolent deity.
 Lieutenant Chatrand: Exactly.
-Camerlengo Carlo Ventresca: Omnipotent-","benevolent simply means that God is all-powerful and well-meaning.
-Lieutenant Chatrand: I understand the concept. It’s just... there seems to be a contradiction.
-Camerlengo Carlo Ventresca: Yes. The contradiction is pain. Man’s starvation, war, sickness...
-Lieutenant Chatrand: Exactly! Terrible things happen in this world. Human tragedy seems like proof that God could not possibly be both all-powerful and well-meaning. If He loves us and has the power to change our situation, He would prevent our pain, wouldn’t he?"
-Fahrenheit 451,Ray Bradbury,"The books are to remind us what asses and fool we are. They're Caeser's praetorian guard, whispering as the parade roars down the avenue, ","""Remember, Caeser, thou art mortal."" Most of us can't rush around, talking to everyone, know all the cities of the world, we haven't time, money or that many friends. The things you're looking for, Montag, are in the world, but the only way the average chap will ever see ninety-nine per cent of them is in a book. Don't ask for guarantees. And don't look to be saved in any one thing, person, machine, or library. Do your own bit of saving, and if you drown, at least die knowing you were headed for shore.”"
-Lord of the Flies,William Golding,"And in the middle of them, with filthy body, matted hair, and unwiped nose, ","Ralph wept for the end of innocence, the darkness of man's heart, and the fall through the air of the true, wise friend called Piggy.”"
-The Titan's Curse,Rick Riordan,"Grover was sniffing the wind, looking nervous. He fished out his acorns and threw them into the sand, then ","played his pipes. They rearranged themselves in a pattern that made no sense to me, but Grover looked concerned.
-""That's us,"" he said. ""Those five nuts right there.""
-""Which one is me?"" I asked.
-""The little deformed one,"" Zoe suggested.
-""Oh, shut up.”"
-The Sea of Monsters,Rick Riordan,"The real story of the Fleece: there were these two children of Zeus, Cadmus and Europa, okay? They were about to get offered up as human sacrifices, when they prayed to Zeus to save them. So Zeus"," sent this magical flying ram with golden wool, which picked them up in Greece and carried them all the way to Colchis in Asia Minor. Well, actually it carried Cadmus. Europa fell off and died along the way, but that's not important.""
-""It was probably important to her.”"
+Camerlengo Carlo Ventresca: Omnipotent-"
+Fahrenheit 451,Ray Bradbury,"The books are to remind us what asses and fool we are. They're Caeser's praetorian guard, whispering as the parade roars down the avenue, "
+Lord of the Flies,William Golding,"And in the middle of them, with filthy body, matted hair, and unwiped nose, "
+The Titan's Curse,Rick Riordan,"Grover was sniffing the wind, looking nervous. He fished out his acorns and threw them into the sand, then "
+The Sea of Monsters,Rick Riordan,"The real story of the Fleece: there were these two children of Zeus, Cadmus and Europa, okay? They were about to get offered up as human sacrifices, when they prayed to Zeus to save them. So Zeus"
 Where the Crawdads Sing,Delia Owens,"She whispered a verse by Amanda Hamilton:
 
 You came again,
 blinding my eyes
-like the shimmer","of sun upon the sea.
-Just as I feel free
-the moon casts your face upon the sill.
-Each time I forget you
-your eyes haunt my heart and it falls still.
-And so farewell
-until the next time you come,
-until at last I do not see you.”"
-New Moon,Stephenie Meyer,"Before you, Bella, my life was like a moonless night. Very dark, but there were stars, ","points of light and reason. ...And then you shot across my sky like a meteor. Suddenly everything was on fire; there was brilliancy, there was beauty. When you were gone, when the meteor had fallen over the horizon, everything went black. Nothing had changed, but my eyes were blinded by the light. I couldn’t see the stars anymore. And there was no more reason, for anything.”"
-The Girl on The Train,Paula Hawkins,"A tiding of magpies: One for sorrow, two for joy, ","three for a girl, four for a boy, five for silver, six for gold, seven for a secret never to be told”"
-Of Mice and Men,John Steinbeck,"George's voice became deeper. He repeated his words rhythmically as though he had said them many times before. 'Guys like us, ","that work on ranches, are the loneliest guys in the world. They got no family. They don't belong no place. They come to a ranch an' work up a stake, and the first thing you know they're poundin' their tail on some other ranch. They ain't got nothing to look ahead to.”"
+like the shimmer"
+New Moon,Stephenie Meyer,"Before you, Bella, my life was like a moonless night. Very dark, but there were stars, "
+The Girl on The Train,Paula Hawkins,"A tiding of magpies: One for sorrow, two for joy, "
+Of Mice and Men,John Steinbeck,"George's voice became deeper. He repeated his words rhythmically as though he had said them many times before. 'Guys like us, "
 Clockwork Prince,Cassandra Clare,"Tess, Tess, Tessa.
 
-Was there ever a more beautiful sound than your name? To speak it aloud makes my heart ring like a bell. Strange to imagine that, isn’t it – a heart",ringing – but when you touch me that is what it is like: as if my heart is ringing in my chest and the sound shivers down my veins and splinters my bones with joy.
-The Golden Notebook,Doris Lessing,"Ideally, what should be said to every child, repeatedly, throughout his or her school life is something like this: 'You are in the process of being indoctrinated. We have not yet evolved","a system of education that is not a system of indoctrination. We are sorry, but it is the best we can do. What you are being taught here is an amalgam of current prejudice and the choices of this particular culture. The slightest look at history will show how impermanent these must be. You are being taught by people who have been able to accommodate themselves to a regime of thought laid down by their predecessors. "
-The Notebook,Nicholas Sparks,"Poets often describe love as an emotion that we can't control, one that overwhelms logic and common sense. That's what it was like for me. I didn't"," plan on falling in love with you, and I doubt if oyu planned on fallin gin love with me. But once we met, it was clear that neither of us could control what was happening to us. We fell in love, despite our differences, and once we did, something rare and beautiful was created. For me, love like that has happened only once, and that's why every minute we spent together has been seared in my memory. I'll never forget a single moment of it.”"
-Looking for Alaska,John Green,"We are all going, I thought, and it applies to turtles and turtlenecks, Alaska the girl and","Alaska the place, because nothing can last, not even the earth itself. The Buddha said that suffering was caused by desire, we'd learned, and that the cessation of desire meant the cessation of suffering. When you stopped wishing things wouldn't fall apart, you'd stop suffering when they did.”"
-Gone with the Wind,Margaret Mitchell,"“I wish to Heaven I was married,"" she said resentfully as she attacked the yams with loathing. ""I'm tired of everlastingly","being unnatural and never doing anything I want to do. I'm tired of acting like I don't eat more than a bird, and walking when I want to run and saying I feel faint after a waltz, when I could dance for two days and never get tired. I'm tired of saying, 'How wonderful you are!' to fool men who haven't got one-half the sense I've got, and I'm tired of pretending I don't know anything, so men can tell me things and feel important while they're doing it... I can't eat another bite.”"
+Was there ever a more beautiful sound than your name? To speak it aloud makes my heart ring like a bell. Strange to imagine that, isn’t it – a heart"
+The Golden Notebook,Doris Lessing,"Ideally, what should be said to every child, repeatedly, throughout his or her school life is something like this: 'You are in the process of being indoctrinated. We have not yet evolved"
+The Notebook,Nicholas Sparks,"Poets often describe love as an emotion that we can't control, one that overwhelms logic and common sense. That's what it was like for me. I didn't"
+Looking for Alaska,John Green,"We are all going, I thought, and it applies to turtles and turtlenecks, Alaska the girl and"
+Gone with the Wind,Margaret Mitchell,"“I wish to Heaven I was married,"" she said resentfully as she attacked the yams with loathing. ""I'm tired of everlastingly"
 To Bedlam and Part Way Back,Anne Sexton,"Her Kind
 
 I have gone out, a possessed witch,
 haunting the black air, braver at night;
-dreaming evil,","I have done my hitch
-over the plain houses, light by light:
-lonely thing, twelve-fingered, out of mind.
-A woman like that is not a woman, quite.
-I have been her kind.
-
-I have found the warm caves in the woods,
-filled them with skillets, carvings, shelves,
-closets, silks, innumerable goods;
-fixed the suppers for the worms and the elves:
-whining, rearranging the disaligned.
-A woman like that is misunderstood.
-I have been her kind."
-The Wind-Up Bird Chronicle,Haruki Murakami,"But even so, every now and then I would feel a violent stab of loneliness. The very water I drink, the very air I breathe, would feel like long, sharp needles. The pages of a book in my hands would take on the threatening metallic gleam of", razor blades. I could hear the roots of loneliness creeping through me when the world was hushed at four o'clock in the morning.”
+dreaming evil,"
+The Wind-Up Bird Chronicle,Haruki Murakami,"But even so, every now and then I would feel a violent stab of loneliness. The very water I drink, the very air I breathe, would feel like long, sharp needles. The pages of a book in my hands would take on the threatening metallic gleam of"

@@ -17,3 +17,4 @@ The provided open-source dataset (n=100) consists of the following attributes:
 ```
 ---
 
+Our dataset consists of 50 first passage prompts and 50 completion prompts. The model generations and labels are available in the ``results`` folder. 
